@@ -7,7 +7,7 @@
   <img align="left" alt="Anunlu's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 <a href="https://www.hackerrank.com/Nasuhcan">
-  <img align="left" alt="Anunlu's Hackerrank" width="22px" src="https://e7.pngegg.com/pngimages/891/900/png-clipart-logo-hackerrank-where-s-weed-java-hacker.png" />
+  <img align="left" alt="Anunlu's Hackerrank" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" />
 </a>
 
 <!--
