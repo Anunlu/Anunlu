@@ -1,4 +1,15 @@
 ### **Hi there** <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+
+<a href="https://twitter.com/Nasuhcan99">
+  <img align="left" alt="Anunlu's Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+</a>
+<a href="https://www.linkedin.com/in/ahmet-%C3%BC-7b37b091/">
+  <img align="left" alt="Anunlu's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
+<a href="https://www.hackerrank.com/Nasuhcan">
+  <img align="left" alt="Anunlu's Hackerrank" width="22px" src="https://www.hackerrank.com/wp-content/uploads/2018/08/hackerrank_logo.png" />
+</a>
+
 <!--
 **Anunlu/Anunlu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
